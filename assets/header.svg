@@ -38,7 +38,7 @@
   </g>
 
   <!-- left: identity -->
-  <text class="sub" x="48" y="52">苏州大学 · Soochow University</text>
+  <text class="sub" x="48" y="52">武汉大学  University</text>
   <g class="type"><text class="name" x="48" y="118">Zhang San</text></g>
   <rect class="caret" x="330" y="82" width="3" height="42"/>
   <text class="role" x="48" y="152">语音识别 × 端到端语音大模型</text>
